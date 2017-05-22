@@ -19,6 +19,14 @@ $ npm install
 
 4. Immutable
 
+5. Karma
+
+6. Sass
+
+7. hot-reloading
+
+8. Webpack & babel
+
 ## Development
 ```
 $ npm start
