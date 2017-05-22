@@ -1,0 +1,9 @@
+/* global styles */
+@import '~styles/typography';
+@import "~styles/globals.scss";
+
+:global(body) {
+    background-color: $backgroundColor;
+
+    .root {}
+}

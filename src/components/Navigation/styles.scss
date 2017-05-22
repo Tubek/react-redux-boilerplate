@@ -1,0 +1,19 @@
+@import "~styles/globals.scss";
+
+:local(.styles) {
+  padding: 10px 0;
+  a {
+    text-decoration: none;
+    color: gray;
+    padding-right: 10px;
+
+    &.active {
+      color: black;
+    }
+  }
+
+  .info{
+    float: right;
+    color: gray;
+  }
+}
